@@ -86,16 +86,41 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 | Wisdom                | Easy       | 25     | Y             |
 | A tabel               | Meduim     | 50     | Y             |
 | Concerto              | Hard       | 100    | Y             |
-| Gimme\_the\_plant       | Hard       | 100    | N             |
+| Gimme\_the\_plant     | Hard       | 100    | N             |
 | J'aime les trains     | Hard       | 100    | Y             |
 
 
 
 ### Sténographie
 
+| Challenge                                             | Difficulté | Points | Write-up fait |
+|-------------------------------------------------------|------------|--------|---------------|
+| Chess Master                                          | Easy       | 25     | Y             |
+| Spirale                                               | Easy       | 25     | Y             |
+| Drifting the bits                                     | Medium     | 50     | N             |
+| Pyramide                                              | Medium     | 50     | Y             |
+| Deviens champion sers toi de tout ce que tu as appris | Medium     | 50     | N             |
+| 50 Shades of Stephane Legar                           | Medium     | 100    | N             |
+
 
 ### Misc
 
+| Challenge                                | Difficulté | Points | Write-up fait |
+|------------------------------------------|------------|--------|---------------|
+| Survey                                   | N/A        | 10     | Y             |
+| Roombaverse Simulator - Des yeux partout | N/A        | 25     | Y             |
+| Tinder                                   | Easy       | 50     | N             |
+| riGOLe                                   | Medium     | 50     | N             |
+| Roombaverse Simulator - Roomba tricheur  | N/A        | 50     | Y             |
+| Et je tombe tombe tombe ...              | Medium     | 50     | N             |
+
 
 ### Hardware
+
+| Challenge                               | Difficulté | Points | Write-up fait |
+|-----------------------------------------|------------|--------|---------------|
+| Class4                                  | Medium     | 50     | N             |
+| Identify 1/3                            | Easy       | 50     | Y             |
+| Find Me 2/3                             | Medium     | 50     | N             |
+| Yo listen 3/3                           | Medium     | 50     | N             |
 
