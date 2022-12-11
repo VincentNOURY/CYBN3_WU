@@ -112,7 +112,7 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 | Tinder                                   | Easy       | 50     | N             |
 | riGOLe                                   | Medium     | 50     | N             |
 | Roombaverse Simulator - Roomba tricheur  | N/A        | 50     | Y             |
-| Et je tombe tombe tombe ...              | Medium     | 50     | N             |
+| Et je tombe tombe tombe ...              | Medium     | 50     | Y             |
 
 
 ### Hardware
