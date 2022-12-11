@@ -53,4 +53,43 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 
 ### Forensics
 
+| Challenge              | Difficulté | Points | Write-up fait |
+|------------------------|------------|--------|---------------|
+| Souvenir               | Easy       | 25     | N             |
+| Sniff Sniff            | Easy       | 25     | N             |
+| Xray                   | N/A        | 25     | N             |
+| Magic                  | Meduim     | 50     | N             |
+| Bomberman 1/2          | Medium     | 50     | N             |
+| thoses pesky sysadmins | N/A        | 50     | N             |
+| Vmdkk                  | Hard       | 150    | N             |
+| Peu importe le chemin  | Medium     | 150    | N             |
+
+
+### Programmation
+
+| Challenge             | Difficulté     | Points | Write-up fait |
+|-----------------------|----------------|--------|---------------|
+| Startup               | Sanity Checker | 10     | N             |
+| Repeat                | Easy           | 25     | N             |
+| Timing                | Medium         | 50     | N             |
+| Maze - Coward         | Meduim         | 50     | N             |
+| Maze - Greed          | Medium         | 50     | N             |
+| Maze - Indiana Jones  | Hard           | 150    | N             |
+
+
+### OSINT
+
+| Challenge             | Difficulté | Points | Write-up fait |
+|-----------------------|------------|--------|---------------|
+| La Banque             | Easy       | 25     | Y             |
+| Panneau               | Easy       | 25     | Y             |
+| Wisdom                | Easy       | 25     | Y             |
+| A tabel               | Meduim     | 50     | Y             |
+| Concerto              | Hard       | 100    | Y             |
+| Gimme\_the\_plant       | Hard       | 100    | N             |
+| J'aime les trains     | Hard       | 100    | Y             |
+
+
+
+
 
