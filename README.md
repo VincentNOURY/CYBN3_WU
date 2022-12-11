@@ -91,5 +91,11 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 
 
 
+### Sténographie
 
+
+### Misc
+
+
+### Hardware
 
