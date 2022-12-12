@@ -70,7 +70,7 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 | Challenge             | Difficulté     | Points | Write-up fait |
 |-----------------------|----------------|--------|---------------|
 | Startup               | Sanity Checker | 10     | Y             |
-| Repeat                | Easy           | 25     | N             |
+| Repeat                | Easy           | 25     | Y             |
 | Timing                | Medium         | 50     | N             |
 | Maze - Coward         | Meduim         | 50     | ~             |
 | Maze - Greed          | Medium         | 50     | ~             |
