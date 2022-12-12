@@ -99,7 +99,7 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 | Spirale                                               | Easy       | 25     | Y             |
 | Drifting the bits                                     | Medium     | 50     | N             |
 | Pyramide                                              | Medium     | 50     | Y             |
-| Deviens champion sers toi de tout ce que tu as appris | Medium     | 50     | N             |
+| Deviens champion sers toi de tout ce que tu as appris | Medium     | 50     | En cours      |
 | 50 Shades of Stephane Legar                           | Medium     | 100    | N             |
 
 
