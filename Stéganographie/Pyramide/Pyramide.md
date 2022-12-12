@@ -26,5 +26,6 @@ Dans le cas 1 vous cherchez la phrase sur google et vous trouvez 2 noms Tournevi
 
 Dans le cas 2 vous pouvez chercher le bout de phrase que vous avez cela suffira, cependant il existe une rotation de l'image permettant de trouver la suite de la citation.
 
+C'est la rotation suivante qui permet de trouver la fin de la citation
 
-TODO : Illustrer
+![rotated.png](rotated.png)
