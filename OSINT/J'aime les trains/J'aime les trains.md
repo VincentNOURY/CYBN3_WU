@@ -12,6 +12,8 @@ Dans le fichier transmission-record.txt on peut voir 3 villes dont une seule non
 
 En l'occurence Les Redoutes est un chemin de randonnée situé dans le sud de la France à la limite de la frontière Espagnole.
 
+![maps.png](mpas.png)
+
 Après avoir essayé de simuler un compas avec l'outil de mesure de google maps, je suis parti sur une technique plus fructueuse.
 
 Je suis allé chercher une [carte interactive des lignes de trains](https://www.sncf-reseau.com/fr/carte/carte-interactive-reseau-ferre-francais-0).
@@ -24,9 +26,13 @@ J'ai trouvé un résultat sur et un probable (même si les distances ne coincida
  - Kexiloa (proche de Ciboure)
  - Saint-Jean-de-luz
 
+![tgv.png](tgv.png)
+
 En regardant les deux points temporels, on peut voir que le train se rapproche de Saint-Jean-de-luz sans SEMBLER s'éloigner de Keiloa, on peut donc en 
 déduire que le train se trouve sur la courbe autour de kexiloa et que donc il a parcouru 2km entre les 2 transmissions, 1km vers kexiloa et 1km en 
 s'éloignant de kexiloa.
+
+![tgv2.png](tgv2.png)
 
 On peut donc en déduire que le train voyage vers le nord. La seule gare au Sud de ces deux villes est Hendaye, on peut donc légitimement penser que le 
 départ était de Hendaye. En regardant les trains au départ de Hendaye, on voit des TGV dont un partant à 7h12 numéro 8530.
