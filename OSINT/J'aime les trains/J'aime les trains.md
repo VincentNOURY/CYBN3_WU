@@ -12,7 +12,7 @@ Dans le fichier transmission-record.txt on peut voir 3 villes dont une seule non
 
 En l'occurence Les Redoutes est un chemin de randonnée situé dans le sud de la France à la limite de la frontière Espagnole.
 
-![maps.png](mpas.png)
+![maps.png](maps.png)
 
 Après avoir essayé de simuler un compas avec l'outil de mesure de google maps, je suis parti sur une technique plus fructueuse.
 
