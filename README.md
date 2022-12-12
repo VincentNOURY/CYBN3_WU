@@ -9,7 +9,7 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 
 | Challenge                            | Difficulté | Points | Write-up fait |
 |--------------------------------------|------------|--------|---------------|
-| Auth 1                               | Easy       | 25     | N             |
+| Auth 1                               | Easy       | 25     | Y             |
 | Auth 2                               | Easy       | 25     | Y             |
 | Roombaverse Simulator - Cryptoroomba | N/A        | 150    | N             |
 | Auth 3                               | Hard       | 200    | N             |
