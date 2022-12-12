@@ -14,6 +14,8 @@ binwalk -e triforce.png
 
 On retrouve dans le dossier d'extraction une autre image cette fois-ci avec des cases rouges.
 
+![triforce2.png](triforce2.png)
+
 En notant les lettres correspondant aux cases rouges, on obtient VOUS NE SORTIREZ JAMAIS D.
 
 Maintenant 2 options :
