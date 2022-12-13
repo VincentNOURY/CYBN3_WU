@@ -71,7 +71,7 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 |-----------------------|----------------|--------|---------------|
 | Startup               | Sanity Checker | 10     | Y             |
 | Repeat                | Easy           | 25     | Y             |
-| Timing                | Medium         | 50     | N             |
+| Timing                | Medium         | 50     | Y             |
 | Maze - Coward         | Meduim         | 50     | ~             |
 | Maze - Greed          | Medium         | 50     | ~             |
 | Maze - Indiana Jones  | Hard           | 150    | N             |
