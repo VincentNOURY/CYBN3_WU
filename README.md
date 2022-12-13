@@ -32,10 +32,10 @@ Bonjour, et bienvenue sur les write-ups du père noël de la Cybernight 2022.
 
 | Challenge                                           | Difficulté | Points | Write-up fait |
 |-----------------------------------------------------|------------|--------|---------------|
-| Roombaverse - Cooking Roomba                        | N/A        | 25     | En cours      |
+| Roombaverse - Cooking Roomba                        | N/A        | 25     | Y             |
 | Roombaverse - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv | N/A        | 50     | N             |
 | Roombaverse - Live                                  | N/A        | 150    | N             |
-| Roombaverse - Ah bah c'est du propre                | N/A        | 200    | En cours      |
+| Roombaverse - Ah bah c'est du propre                | N/A        | 200    | Y             |
 | Roombaverse - Leaderboard                           | N/A        | 200    | En cours      |
 
 
