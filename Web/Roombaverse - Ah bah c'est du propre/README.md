@@ -38,7 +38,7 @@ Génial, on a la date de création de son compte avec heures, minutes et seconde
 
 En explorant un peut plus le code source de la page on peut retrouver quelque chose de très intéresant. L'uuidtime de la date de cration du compte admin.
 
-![time_uuid.png](time_uuid.png)
+![uuid_time.png](uuid_time.png)
 
 Ensuite il faut pouvoir déterminer les autres variables pour la création de l'uuid. La quatrième partie de l'uuid (clock sequence and variant) et node 
 sont visibles avec le décoder il faut donc simplement vérifier qu'ils soient constants.
